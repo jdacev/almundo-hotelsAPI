@@ -1,0 +1,29 @@
+{
+  "name": "almundo-hotelsAPI",
+  "version": "1.0.0",
+  "description": "Challenge para almundo.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdacev/almundo-hotelsAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdacev/almundo-hotelsAPI/issues"
+  },
+  "homepage": "https://github.com/jdacev/almundo-hotelsAPI#readme",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.4",
+    "mongoose": "^4.11.12"
+  }
+}
